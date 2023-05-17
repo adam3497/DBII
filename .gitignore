@@ -1,0 +1,27 @@
+OracleVM/*
+*.mp4
+OCI/*
+
+# ignore everything from proyecto01 folder but Entrega
+proyecto01/*
+!proyecto01/Entrega
+
+# ignore everything from Proyecto02 folder but Entrega
+Proyecto02/*
+!Proyecto02/Entrega
+
+# ignore the zip file inside Tarea5
+Tarea5/*.zip
+
+# ignore all the png files inside tarea6 folder
+tarea6/*.png
+
+# ignore all the zip files inside tarea7 folder
+tarea7/*.zip
+
+# ignore all the zip files inside tarea9 folder
+tarea9/*.zip
+
+# ignore the tmp filder
+tmp/*
+
